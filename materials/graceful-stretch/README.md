@@ -1,4 +1,4 @@
-# gentle Stretch Educational Materials
+# Gentle Stretch Educational Materials
 
 This folder contains AIML's gentle Stretch / Brain-Healthy Activity Planner handout.
 
