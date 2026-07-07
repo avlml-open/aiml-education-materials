@@ -1,10 +1,10 @@
-# Graceful Stretch Educational Materials
+# gentle Stretch Educational Materials
 
-This folder contains AIML's Graceful Stretch / Brain-Healthy Activity Planner handout.
+This folder contains AIML's gentle Stretch / Brain-Healthy Activity Planner handout.
 
 ## File
 
-- `Graceful_stretch_Handout.pdf` — four-page handout for participants.
+- `gentle_stretch_Handout.pdf` — four-page handout for participants.
 
 ## What it covers
 
@@ -25,6 +25,6 @@ This material is educational and should not be presented as medical advice. Part
 
 ## Reuse status
 
-Graceful Stretch / Graceful Stretch Wellness may use, copy, print, distribute, adapt, and incorporate these materials without additional permission from AIML.
+gentle Stretch / gentle Stretch Wellness may use, copy, print, distribute, adapt, and incorporate these materials without additional permission from AIML.
 
 For other organizations, AIML should choose a repository-wide license before broad publication.
