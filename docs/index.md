@@ -4,4 +4,4 @@ AIML educational handouts and resources for community learning, brain-health lit
 
 ## Materials
 
-- [Graceful Stretch / Brain-Healthy Activity Planner](graceful-stretch.md)
+- [Gentle Stretch / Brain-Healthy Activity Planner](gentle-stretch.md)
