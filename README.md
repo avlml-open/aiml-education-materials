@@ -34,7 +34,7 @@ docs/
 
 ## License / reuse status
 
-gentle Stretch / gentle Stretch Wellness may use, copy, print, distribute, adapt, and incorporate the gentle Stretch materials without additional permission from AIML.
+Gentle Stretch / A Gentle Stretch Wellness may use, copy, print, distribute, adapt, and incorporate the Gentle Stretch materials without additional permission from AIML.
 
 Other repository-wide license terms are not finalized in this starter repo. Before publishing broadly, AIML should choose a license for materials outside the gentle Stretch folder and for reuse by other institutions or commercial organizations.
 
