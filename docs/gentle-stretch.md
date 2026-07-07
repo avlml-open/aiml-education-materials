@@ -1,4 +1,4 @@
-# gentle Stretch / Brain-Healthy Activity Planner
+# Gentle Stretch / Brain-Healthy Activity Planner
 
 This AIML handout helps participants plan a brain-healthy week using a simple 750 MET-point goal.
 
